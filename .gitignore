@@ -1,0 +1,11 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+
+# Keil user-specific project settings
+*.uvguix.*
+*.uvoptx
+
+# Local credentials and device configuration
+OneNET/user_config.h
